@@ -1,1 +1,1 @@
-{"base": "fc25865fc99f", "parent": "release/rolling/rclcpp_lifecycle", "previous": "d8ad446c1d86", "trim": "", "trimbase": ""}
+{"base": "a5a288384653", "parent": "release/rolling/rclcpp_lifecycle/27.0.0-2", "previous": "d8ad446c1d86", "trim": "", "trimbase": ""}
